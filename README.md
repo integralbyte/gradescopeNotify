@@ -21,7 +21,7 @@ When you run the script, you will be prompted to enter the following four inputs
 3. **Gradescope `signed_token` Cookie**
    Your Gradescope authentication token.
 
-   * You can find this in your browser’s developer tools under the “Cookies” section while logged into Gradescope.
+   * You can find this in your browser’s developer tools under the “Cookies” section while logged into Gradescope. You do **NOT** have to url-decode it.
 
 4. **Course ID**
    The 6-digit ID of the course where the assignment is hosted.
